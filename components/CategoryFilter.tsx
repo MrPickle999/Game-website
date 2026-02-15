@@ -18,8 +18,8 @@ const CategoryFilter: React.FC<CategoryFilterProps> = ({ activeCategory, setActi
           onClick={() => setActiveCategory(cat)}
           className={`px-4 py-2 rounded-lg whitespace-nowrap transition-all text-sm font-medium ${
             activeCategory === cat
-              ? 'bg-rose-600 text-white shadow-lg shadow-rose-500/30'
-              : 'bg-slate-900/50 text-slate-400 hover:bg-slate-800 hover:text-white border border-slate-800'
+              ? 'bg-indigo-600 text-white shadow-lg shadow-indigo-500/30'
+              : 'bg-slate-800 text-slate-400 hover:bg-slate-700 hover:text-white'
           }`}
         >
           {cat}
