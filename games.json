@@ -1,0 +1,70 @@
+
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The classic number merging puzzle game. Reach the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "isHot": true
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast-paced puzzle game inspired by Tetris on a hexagon.",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "url": "https://hextris.io/",
+    "category": "Arcade",
+    "isHot": true
+  },
+  {
+    "id": "flappy",
+    "title": "Flappy Bird",
+    "description": "Fly between pipes in this addictive arcade classic clone.",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "url": "https://flappybird.io/",
+    "category": "Arcade"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "The iconic dot-eating maze runner. Watch out for ghosts!",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic",
+    "isHot": true
+  },
+  {
+    "id": "snake",
+    "title": "Google Snake",
+    "description": "The classic snake game you know and love from Nokia days.",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "category": "Classic"
+  },
+  {
+    "id": "chess",
+    "title": "Online Chess",
+    "description": "Play chess against a computer or real opponents worldwide.",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "url": "https://lichess.org/tv",
+    "category": "Puzzle"
+  },
+  {
+    "id": "crossy",
+    "title": "Crossy Road",
+    "description": "Help the chicken cross the busy road without getting hit.",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "url": "https://crossyroad.com/",
+    "category": "Arcade"
+  },
+  {
+    "id": "doodle",
+    "title": "Doodle Jump",
+    "description": "Jump as high as you can in this vertical platforms game.",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "url": "https://doodlejump.io/",
+    "category": "Arcade"
+  }
+]
